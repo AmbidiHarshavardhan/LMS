@@ -20,6 +20,10 @@ body {
 	margin-left: 5px;
 	font-weight: bold;
 }
+.navbar-toggler {
+	float : right;
+	margin-right:10px;
+}
 .nav-item :hover {
   display: inline-flex;
   padding: 5px 10px 5px 10px;
