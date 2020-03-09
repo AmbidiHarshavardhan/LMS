@@ -18,6 +18,7 @@ body {
 .navtitle {
 	float: right;
 	margin-left: 5px;
+	font-weight: bold;
 }
 .nav-item :hover {
   display: inline-flex;
